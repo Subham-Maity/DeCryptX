@@ -1,2 +1,4 @@
-# DecryptoX
-DecryptoX is a decentralized application designed for secure and efficient cryptocurrency trading. It offers a user-friendly platform with advanced blockchain technology and a high level of security. With a wide range of crypto assets, DecryptoX is the perfect platform for both experienced traders and beginners.
+# Build and Deploy a Modern Crypto Exchange Uniswap dApp and Master Web3 Development & Smart Contracts
+![Uniswap](https://i.ibb.co/GV4ZBpG/Thumbnail-9.png)
+
+### Launch your development career with project-based coaching on [JS Mastery Pro](https://www.jsmastery.pro).
